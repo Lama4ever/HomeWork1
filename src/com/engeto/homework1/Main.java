@@ -1,3 +1,5 @@
+package com.engeto.homework1;
+
 import java.math.BigDecimal;
 
 public class Main {
